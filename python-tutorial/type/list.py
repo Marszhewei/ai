@@ -32,3 +32,14 @@ print(multi_type)
 # empty list
 ls = []
 print(len(ls))
+
+
+# list and string
+l = [3, 1, 2]
+l.sort()
+print(l)
+s = 'abc'
+s.replace('a', 'A')
+s1 = s.replace('a', 'A')
+print(s)
+print(s1)

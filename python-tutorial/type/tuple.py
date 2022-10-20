@@ -13,3 +13,10 @@ print(len(empty_tuple))
 one_tuple = (1)
 print(one_tuple)
 # print(len(one_tuple)) can't get length of one element tuple
+
+# changeable tuple?
+cab = ('a', 'b', ['A', 'B'])
+cab[-1][0] = 'X'
+cab[-1][-1] = 'Y'
+print(cab)
+
