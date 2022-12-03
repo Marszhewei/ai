@@ -1,12 +1,1 @@
-## python-tutorial
-### type
-### io
-### lib
-
-## regression
-
-## classification
-
-## supervised
-
-## unsupervised
+## some ML and DL code
